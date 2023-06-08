@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Modified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Modified/mysql-connector-java-8.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Modified/Harvest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

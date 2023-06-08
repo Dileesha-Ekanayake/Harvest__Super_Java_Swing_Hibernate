@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="hibernate.cfg.xml/Hibernate">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.48">
+    <root id="1">
+      <DefaultCasing>lower/lower</DefaultCasing>
+      <ServerVersion>8.0.31</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="abc"/>
+    <schema id="3" parent="1" name="abc_conpany"/>
+    <schema id="4" parent="1" name="db11"/>
+    <schema id="5" parent="1" name="db111"/>
+    <schema id="6" parent="1" name="db12"/>
+    <schema id="7" parent="1" name="db2"/>
+    <schema id="8" parent="1" name="dilee_cli"/>
+    <schema id="9" parent="1" name="dilee_cli2"/>
+    <schema id="10" parent="1" name="dilee_cli3"/>
+    <schema id="11" parent="1" name="dilee_gui"/>
+    <schema id="12" parent="1" name="earth"/>
+    <schema id="13" parent="1" name="earth1"/>
+    <schema id="14" parent="1" name="earthuc"/>
+    <schema id="15" parent="1" name="earthuniversity"/>
+    <schema id="16" parent="1" name="entitytest"/>
+    <schema id="17" parent="1" name="euc"/>
+    <schema id="18" parent="1" name="euc_project"/>
+    <schema id="19" parent="1" name="eucbitproject"/>
+    <schema id="20" parent="1" name="eucproj"/>
+    <schema id="21" parent="1" name="fit_db"/>
+    <schema id="22" parent="1" name="full_time"/>
+    <schema id="23" parent="1" name="gampahadml"/>
+    <schema id="24" parent="1" name="harvest">
+      <Current>1</Current>
+    </schema>
+    <schema id="25" parent="1" name="harvest2"/>
+    <schema id="26" parent="1" name="harvest3"/>
+    <schema id="27" parent="1" name="harvest6"/>
+    <schema id="28" parent="1" name="harvest_learning"/>
+    <schema id="29" parent="1" name="harvestpre"/>
+    <schema id="30" parent="1" name="information_schema"/>
+    <schema id="31" parent="1" name="item"/>
+    <schema id="32" parent="1" name="myharvest"/>
+    <schema id="33" parent="1" name="mysql"/>
+    <schema id="34" parent="1" name="nipu"/>
+    <schema id="35" parent="1" name="payment_reminder"/>
+    <schema id="36" parent="1" name="performance_schema"/>
+    <schema id="37" parent="1" name="phone_book"/>
+    <schema id="38" parent="1" name="phonebook"/>
+    <schema id="39" parent="1" name="php_test"/>
+    <schema id="40" parent="1" name="reception"/>
+    <schema id="41" parent="1" name="ruki"/>
+    <schema id="42" parent="1" name="se1"/>
+    <schema id="43" parent="1" name="shop"/>
+    <schema id="44" parent="1" name="student"/>
+    <schema id="45" parent="1" name="sys"/>
+    <schema id="46" parent="1" name="user"/>
+    <schema id="47" parent="1" name="vle_forum"/>
+  </database-model>
+</dataSource>
